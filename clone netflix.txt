@@ -1,0 +1,18 @@
+Projeto Clone NETFLIX
+ Dentro desse projeto, a intenção é replicar a interface 
+do site Netflix usando HTML e CSS.
+
+*Botão Inicio
+   Sempre que clicar no botão ele voltara a tela inicial
+*Botão Series
+    Abrira uma pagina apenas com series
+*Botão Filmes
+    Abrira uma paginas apenas com filmes 
+*Botão Documentarios
+    Abrirá uma tela apenas com documentarios
+*Carrossel com Filmes
+    O usuario poderá visualizar dos filmes series ou documentarios disponiveis 
+naquele carrossel
+*Ao clicar no filme desejado ira abrir uma tela com descrição do filme
+*Aplicar responsividade no site
+*Aplicar designer do NETFLIX
